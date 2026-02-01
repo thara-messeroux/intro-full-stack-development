@@ -24,3 +24,23 @@ Confidence comes from clarity.
 - Python: https://www.python.org/
 - Django: https://www.djangoproject.com/
 - PostgreSQL: https://www.postgresql.org/
+
+## Key Takeaways
+- A website is made of a frontend, a backend, and a database
+- The browser asks for things, and the server responds
+- Tools have roles — no single tool does everything
+
+## Concepts
+
+### What “full stack” means (simple)
+Full stack development means building or understanding the full system:
+- Frontend (what users see)
+- Backend (the server logic)
+- Database (where data is stored)
+
+### Real-world analogy
+A web app is like a restaurant:
+- Frontend = dining room (what customers see)
+- Backend = kitchen (work happens behind the scenes)
+- Database = pantry/inventory (stored information)
+
