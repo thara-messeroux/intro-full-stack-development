@@ -94,4 +94,14 @@ Common status codes:
 - 404: Not found (the page does not exist)
 - 500: Server error (something broke on the server)
 
+## Frontend Building Blocks
+
+Frontend is everything the user sees and interacts with.
+
+It includes:
+- Page structure (text, images, buttons)
+- Styling (colors, fonts, layout)
+- Behavior (clicks, animations, form feedback)
+
+If users can see it or click it, it is frontend.
 
