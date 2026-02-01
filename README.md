@@ -44,3 +44,21 @@ A web app is like a restaurant:
 - Backend = kitchen (work happens behind the scenes)
 - Database = pantry/inventory (stored information)
 
+### Frontend vs Backend vs Database (simple)
+
+Frontend:
+- Everything users see and click
+- Buttons, text, images, forms
+
+Backend:
+- The logic and decisions
+- Checks permissions and rules
+
+Database:
+- Stores information long-term
+- Users, posts, comments, likes
+
+Example: liking a post
+- Frontend: click the like button
+- Backend: verifies the action
+- Database: saves the like
