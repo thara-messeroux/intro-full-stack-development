@@ -1,22 +1,11 @@
 # Intro to Full Stack Development
 
-This repository documents my learning from the **Intro to Full Stack Development** unit.
+This folder is for my learning.
 
-## Purpose
-- Track what I learn
-- Build strong fundamentals
-- Create a reference I can come back to later
+## Why this exists
+I am learning how websites work behind the scenes.
 
-## What I’m Learning
-- How the web works (request / response)
-- Frontend vs backend concepts
-- Basic server ideas
-- How tools fit together in full stack development
-
-## Key Takeaways
-- Full stack = frontend + backend + database
-- Browsers and servers talk using HTTP
-- Clean structure matters more than rushing
-
-## Notes
-I’m focusing on understanding, not speed.
+## What I’m learning
+- How browsers talk to servers
+- What frontend and backend mean
+- How full stack development fits together
