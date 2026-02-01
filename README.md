@@ -62,3 +62,18 @@ Example: liking a post
 - Frontend: click the like button
 - Backend: verifies the action
 - Database: saves the like
+
+
+## Client / Server Architecture
+
+Client:
+- The browser or app the user uses
+- Sends requests
+
+Server:
+- A computer that receives requests
+- Sends responses back
+
+Simple rule:
+The client asks.
+The server answers.
