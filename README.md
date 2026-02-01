@@ -77,3 +77,21 @@ Server:
 Simple rule:
 The client asks.
 The server answers.
+
+
+## Requests and Responses
+
+Request:
+- A message sent by the client
+- Asking for a page or data
+
+Response:
+- The server’s reply
+- Includes a result and a status code
+
+Common status codes:
+- 200: OK (everything worked)
+- 404: Not found (the page does not exist)
+- 500: Server error (something broke on the server)
+
+
