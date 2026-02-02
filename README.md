@@ -164,7 +164,6 @@ backend, and database remain the same.
 
 
 ## Python / Django / PostgreSQL Stack
-
 This stack uses Python for backend development, Django as the backend
 framework, and PostgreSQL as the database.
 
@@ -177,4 +176,17 @@ the same:
 - The client sends requests
 - The backend decides what is allowed
 - The database stores information
+
+## Final Mental Model (Full-Stack)
+A full-stack application is built from three layers:
+- Frontend (client): what users see and interact with
+- Backend (server): rules, logic, and security
+- Database: long-term data storage
+
+The flow is always:
+Frontend asks → Backend decides → Database remembers
+
+Different stacks use different tools, but the responsibilities of each
+layer never change. Understanding this model makes it easier to learn
+new frameworks, languages, and stacks.
 
