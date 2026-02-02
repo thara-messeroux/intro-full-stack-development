@@ -45,7 +45,6 @@ A web app is like a restaurant:
 - Database = pantry/inventory (stored information)
 
 ### Frontend vs Backend vs Database (simple)
-
 Frontend:
 - Everything users see and click
 - Buttons, text, images, forms
@@ -65,7 +64,6 @@ Example: liking a post
 
 
 ## Client / Server Architecture
-
 Client:
 - The browser or app the user uses
 - Sends requests
@@ -80,7 +78,6 @@ The server answers.
 
 
 ## Requests and Responses
-
 Request:
 - A message sent by the client
 - Asking for a page or data
@@ -95,7 +92,6 @@ Common status codes:
 - 500: Server error (something broke on the server)
 
 ## Frontend Building Blocks
-
 Frontend is everything the user sees and interacts with.
 
 It includes:
@@ -106,7 +102,6 @@ It includes:
 If users can see it or click it, it is frontend.
 
 ## Backend and Database Building Blocks
-
 Backend:
 - Handles logic and rules
 - Decides what actions are allowed
@@ -122,7 +117,6 @@ Example:
 - Database stores the data
 
 ## Frameworks (Plain English)
-
 A framework is a pre-built structure that helps organize an application.
 It provides rules, conventions, and tools so developers don’t have to
 start from scratch every time.
@@ -143,3 +137,30 @@ A library is something you call when you need a specific feature.
 
 Frameworks are built on top of programming languages and are used on
 both the front-end and back-end of full-stack applications.
+
+## Common Web Development Stacks
+A stack is a combination of technologies used together to build a full
+web application. Each stack includes tools for the frontend, backend,
+and database.
+
+### MEN Stack
+- MongoDB (database)
+- Express (backend framework)
+- Node.js (server runtime)
+
+The MEN stack is commonly used for backend-focused applications and APIs.
+
+### MERN Stack
+- MongoDB (database)
+- Express (backend framework)
+- React (frontend framework)
+- Node.js (server runtime)
+
+The MERN stack builds on the MEN stack by adding React to handle the
+frontend user interface.
+
+Stacks use different tools, but the responsibilities of frontend,
+backend, and database remain the same.
+
+
+
