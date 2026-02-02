@@ -105,3 +105,19 @@ It includes:
 
 If users can see it or click it, it is frontend.
 
+## Backend and Database Building Blocks
+
+Backend:
+- Handles logic and rules
+- Decides what actions are allowed
+- Talks to the database
+
+Database:
+- Stores information long-term
+- Users, posts, comments, likes
+- Does not make decisions
+
+Example:
+- Backend checks permissions
+- Database stores the data
+
