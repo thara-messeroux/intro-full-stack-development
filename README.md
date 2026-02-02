@@ -163,4 +163,18 @@ Stacks use different tools, but the responsibilities of frontend,
 backend, and database remain the same.
 
 
+## Python / Django / PostgreSQL Stack
+
+This stack uses Python for backend development, Django as the backend
+framework, and PostgreSQL as the database.
+
+- Python is the programming language used on the server
+- Django provides structure, rules, and security for backend logic
+- PostgreSQL stores data in structured, relational tables
+
+Although the tools are different from the MERN stack, the roles remain
+the same:
+- The client sends requests
+- The backend decides what is allowed
+- The database stores information
 
