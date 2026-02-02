@@ -121,3 +121,25 @@ Example:
 - Backend checks permissions
 - Database stores the data
 
+## Frameworks (Plain English)
+
+A framework is a pre-built structure that helps organize an application.
+It provides rules, conventions, and tools so developers don’t have to
+start from scratch every time.
+
+Frameworks:
+- Define how an app is structured
+- Handle common tasks (routing, requests, responses)
+- Improve speed, safety, and consistency
+
+### Framework vs Library
+A framework controls the flow of the application and calls your code.
+A library is something you call when you need a specific feature.
+
+### Opinionated vs Unopinionated
+- Opinionated frameworks (Django, Rails) enforce a specific structure
+- Unopinionated frameworks (Express) offer more flexibility but require
+  more decisions from the developer
+
+Frameworks are built on top of programming languages and are used on
+both the front-end and back-end of full-stack applications.
