@@ -62,6 +62,34 @@ Example: liking a post
 - Backend: verifies the action
 - Database: saves the like
 
+## Database
+
+A database is where an application stores information permanently so it can be saved, searched, and retrieved later.
+
+### Two Types of Databases
+
+#### 1. Relational Databases
+Relational databases store data in tables made of rows and columns. Each row represents one record, and each column represents a specific attribute.
+
+These databases are commonly used when data is structured and consistency is important, such as in banking or payment systems.
+
+Examples:
+- MySQL
+- PostgreSQL
+- Oracle
+
+#### 2. Non-Relational Databases
+Non-relational databases store data in more flexible formats such as documents, key-value pairs, or graphs. Each record does not need to follow the same structure.
+
+These databases are useful for applications with large amounts of unstructured or rapidly changing data, such as social media platforms.
+
+Examples:
+- MongoDB
+- Redis
+- Elasticsearch
+
+Relational databases prioritize structure and reliability, while non-relational databases prioritize flexibility and scalability.
+
 
 ## Client / Server Architecture
 Client:
@@ -115,6 +143,8 @@ Database:
 Example:
 - Backend checks permissions
 - Database stores the data
+
+
 
 ## Frameworks (Plain English)
 A framework is a pre-built structure that helps organize an application.
